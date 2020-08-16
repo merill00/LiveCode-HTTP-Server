@@ -20,3 +20,4 @@ The "Root Directory" field displays the full directory path to the "index.html" 
 
 The Server Name field can be empty since code will use a default value of "LiveCode Server" but you can name it anything you wish aand it will be passed into the webpage header.
 
+This stack and a sample web site can be downloaded from https://github.com/merill00/LiveCode-HTTP-Server
